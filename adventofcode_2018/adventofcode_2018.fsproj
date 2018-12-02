@@ -6,9 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="120201.fsx" />
     <None Include="120102.fsx" />
     <None Include="120101.fsx" />
-    <Compile Include="Program.fs" />
+    <Compile Include="120202.fs" />
   </ItemGroup>
 
   <ItemGroup />
